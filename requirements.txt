@@ -1,4 +1,4 @@
-#Requirements für das Notebook
+'Requirements für das Notebook'
 pandas
 numpy
 seaborn
