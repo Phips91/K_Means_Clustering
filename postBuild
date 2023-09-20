@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Upgrade pip
 ${NB_PYTHON_PREFIX}/bin/pip install --no-cache-dir --upgrade pip
 
